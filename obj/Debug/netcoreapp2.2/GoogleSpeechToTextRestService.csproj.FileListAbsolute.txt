@@ -1,0 +1,14 @@
+c:\users\burak-\source\repos\GoogleSpeechToTextRestService\GoogleSpeechToTextRestService\bin\Debug\netcoreapp2.2\GoogleSpeechToTextRestService.deps.json
+c:\users\burak-\source\repos\GoogleSpeechToTextRestService\GoogleSpeechToTextRestService\bin\Debug\netcoreapp2.2\GoogleSpeechToTextRestService.runtimeconfig.json
+c:\users\burak-\source\repos\GoogleSpeechToTextRestService\GoogleSpeechToTextRestService\bin\Debug\netcoreapp2.2\GoogleSpeechToTextRestService.runtimeconfig.dev.json
+c:\users\burak-\source\repos\GoogleSpeechToTextRestService\GoogleSpeechToTextRestService\bin\Debug\netcoreapp2.2\GoogleSpeechToTextRestService.dll
+c:\users\burak-\source\repos\GoogleSpeechToTextRestService\GoogleSpeechToTextRestService\obj\Debug\netcoreapp2.2\GoogleSpeechToTextRestService.csprojAssemblyReference.cache
+c:\users\burak-\source\repos\GoogleSpeechToTextRestService\GoogleSpeechToTextRestService\obj\Debug\netcoreapp2.2\GoogleSpeechToTextRestService.csproj.CoreCompileInputs.cache
+c:\users\burak-\source\repos\GoogleSpeechToTextRestService\GoogleSpeechToTextRestService\obj\Debug\netcoreapp2.2\GoogleSpeechToTextRestService.RazorAssemblyInfo.cache
+c:\users\burak-\source\repos\GoogleSpeechToTextRestService\GoogleSpeechToTextRestService\obj\Debug\netcoreapp2.2\GoogleSpeechToTextRestService.RazorAssemblyInfo.cs
+c:\users\burak-\source\repos\GoogleSpeechToTextRestService\GoogleSpeechToTextRestService\obj\Debug\netcoreapp2.2\GoogleSpeechToTextRestService.AssemblyInfoInputs.cache
+c:\users\burak-\source\repos\GoogleSpeechToTextRestService\GoogleSpeechToTextRestService\obj\Debug\netcoreapp2.2\GoogleSpeechToTextRestService.AssemblyInfo.cs
+c:\users\burak-\source\repos\GoogleSpeechToTextRestService\GoogleSpeechToTextRestService\obj\Debug\netcoreapp2.2\GoogleSpeechToTextRestService.RazorTargetAssemblyInfo.cache
+c:\users\burak-\source\repos\GoogleSpeechToTextRestService\GoogleSpeechToTextRestService\bin\Debug\netcoreapp2.2\GoogleSpeechToTextRestService.pdb
+c:\users\burak-\source\repos\GoogleSpeechToTextRestService\GoogleSpeechToTextRestService\obj\Debug\netcoreapp2.2\GoogleSpeechToTextRestService.dll
+c:\users\burak-\source\repos\GoogleSpeechToTextRestService\GoogleSpeechToTextRestService\obj\Debug\netcoreapp2.2\GoogleSpeechToTextRestService.pdb
